@@ -36,7 +36,7 @@ int main()
     exit(0);}
 ```
 ## OUTPUT:
-![alt text](<Screenshot from 2024-05-14 13-07-05.png>)
+![alt text](<Screenshot from 2024-10-17.png>)
 ## 2.To Write a C program that illustrates files locking
 ```
 #include <fcntl.h>
@@ -84,7 +84,7 @@ int main (int argc, char* argv[])
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot from 2024-05-14 13-09-53.png>)
+![alt text](<Screenshot from 17-10-2024.png>)
 
 # RESULT:
 The programs are executed successfully.
